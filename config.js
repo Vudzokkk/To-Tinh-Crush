@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'IloveU!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã sayngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích Vũ cơ <33',
+    introTitle: 'Cảm ơn đã click vào!',
+    introDesc: `Thông báo cho cậu 31/03 là đến sinh nhật của một bạn đz cute đó. `,
+
+ 
+
+    btnIntro: 'Okk❤️',
+    title: ' 😙',
+    desc: 'Bạn có muốn tặng quà sinh nhật cho Vũ honggg ',
+    btnYes: 'Tặng cho Zũ 500k lunn <33',
     btnNo: 'Không, Vũ à :3💔',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100074449478055' //link mess của các bạn. VD: https://m.me/Vuhehee
+    question:' Tại sao cậu lại tặng cho tớ 500k :33 ',
+    btnReply: 'Gửi cho Vũ <3',
+    reply: ' tại Vũ đẹp trai á.❤️❤️',
+    mess: 'Vũ biết mà 🥰. Yêu cậu  nhiều nhiều 😘😘',
+    messDesc: 'Bấm vào đây để có in tư 1 người cuteee.',
+    btnAccept: 'Okiii cậu <3',
+    messLink: 'https://zalo.me/0376118656' //link mess của các bạn. VD: https://m.me/Vuhehee
 }
